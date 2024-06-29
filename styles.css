@@ -1,0 +1,39 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.post {
+    background-color: white;
+    width: 450px;
+    margin: auto;
+}
+
+img {
+    width: 450px;
+}
+
+.right-bookmark {
+    float: right;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.rigo {
+    font-size: 12px;
+}
+
+.post-body {
+    padding: 20px;
+}
